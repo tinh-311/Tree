@@ -1,0 +1,4 @@
+﻿  caidat.cpp
+E:\Cấu trúc dữ liệu và thuật gải\Huffman Tree\Huffman Tree\caidat.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+E:\Cấu trúc dữ liệu và thuật gải\Huffman Tree\Huffman Tree\caidat.cpp(144,20): warning C4018: '<=': signed/unsigned mismatch
+  Huffman Tree.vcxproj -> E:\Cấu trúc dữ liệu và thuật gải\Huffman Tree\Debug\Huffman Tree.exe
