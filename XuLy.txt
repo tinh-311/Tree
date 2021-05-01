@@ -1,7 +1,0 @@
-* T mất cân bằng lệch trái:
-LL, LE: Quay phải tại T
-LR: Quay left tại con left và quay right tại T
-
-* T mất cân bằng lệch phải: 
-RR, RE: Quay trái tại nó
-RL: Quay right tại con right và quay left tại T
